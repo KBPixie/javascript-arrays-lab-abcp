@@ -7,11 +7,6 @@ var kittens = [
   ]
 
 function destructivelyAppendKitten(array, element){
-  var kittens = [
-  "Milo",
-  "Otis",
-  "Garfield"
-  ]
   kittens.unshift('Ralph');
   return kittens;
 }
