@@ -12,7 +12,7 @@ function destructivelyAppendKitten(array, element){
   "Otis",
   "Garfield"
   ]
-  kittens.unshift('bob');
+  kittens.unshift('Ralph');
   return kittens;
 }
 
